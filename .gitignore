@@ -1,0 +1,8 @@
+# WorkBuddy 项目数据：只保留 skills，忽略其余（记忆、日志等）
+.workbuddy/*
+!.workbuddy/skills/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
